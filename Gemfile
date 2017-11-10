@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'webpacker', github: 'rails/webpacker'
 gem 'jquery-rails', '4.2.2'
 gem 'vuejs-rails'
+gem 'haml-rils'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
